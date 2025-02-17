@@ -1,5 +1,3 @@
-﻿# job-portal
-# job-portal
 # Job Portal
 
 A **Job Portal** web application built using **Vite + React** for the frontend and **Node.js + Express.js + JWT** for the backend.
